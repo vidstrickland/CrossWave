@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 78337ff4df4854945a7fd9f14eaf250e
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Audience16_Win1
+    100004: Win1_Audience17
+    100006: Win1_Audience18
+    100008: Win1_Audience19
+    100010: Win1_Audience20
+    100012: Win1_Audience21
+    100014: Win1_Audience22
+    100016: Win1_Audience23
+    100018: Win1_Audience24
+    100020: Win1_Audience25
+    100022: Win1_Audience26
+    100024: Win1_Audience27
+    100026: Win1_Audience28
+    100028: Win1_Audience29
+    100030: Win1_Audience30
+    400000: //RootNode
+    400002: Audience16_Win1
+    400004: Win1_Audience17
+    400006: Win1_Audience18
+    400008: Win1_Audience19
+    400010: Win1_Audience20
+    400012: Win1_Audience21
+    400014: Win1_Audience22
+    400016: Win1_Audience23
+    400018: Win1_Audience24
+    400020: Win1_Audience25
+    400022: Win1_Audience26
+    400024: Win1_Audience27
+    400026: Win1_Audience28
+    400028: Win1_Audience29
+    400030: Win1_Audience30
+    2300000: Audience16_Win1
+    2300002: Win1_Audience17
+    2300004: Win1_Audience18
+    2300006: Win1_Audience19
+    2300008: Win1_Audience20
+    2300010: Win1_Audience21
+    2300012: Win1_Audience22
+    2300014: Win1_Audience23
+    2300016: Win1_Audience24
+    2300018: Win1_Audience25
+    2300020: Win1_Audience26
+    2300022: Win1_Audience27
+    2300024: Win1_Audience28
+    2300026: Win1_Audience29
+    2300028: Win1_Audience30
+    3300000: Audience16_Win1
+    3300002: Win1_Audience17
+    3300004: Win1_Audience18
+    3300006: Win1_Audience19
+    3300008: Win1_Audience20
+    3300010: Win1_Audience21
+    3300012: Win1_Audience22
+    3300014: Win1_Audience23
+    3300016: Win1_Audience24
+    3300018: Win1_Audience25
+    3300020: Win1_Audience26
+    3300022: Win1_Audience27
+    3300024: Win1_Audience28
+    3300026: Win1_Audience29
+    3300028: Win1_Audience30
+    4300000: Audience16_Win1
+    4300002: Win1_Audience17
+    4300004: Win1_Audience18
+    4300006: Win1_Audience19
+    4300008: Win1_Audience20
+    4300010: Win1_Audience21
+    4300012: Win1_Audience22
+    4300014: Win1_Audience23
+    4300016: Win1_Audience24
+    4300018: Win1_Audience25
+    4300020: Win1_Audience26
+    4300022: Win1_Audience27
+    4300024: Win1_Audience28
+    4300026: Win1_Audience29
+    4300028: Win1_Audience30
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

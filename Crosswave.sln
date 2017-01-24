@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1839C12B-1D67-73E6-1CE6-B3F099C68C28}") = "CrossWave", "Assembly-CSharp-firstpass.csproj", "{5F9D81FA-AE7D-B369-ED1B-B4961F296FBD}"
+EndProject
+Project("{1839C12B-1D67-73E6-1CE6-B3F099C68C28}") = "CrossWave", "Assembly-CSharp.csproj", "{B7DD6974-3E97-0B84-2FEE-A490426E3027}"
+EndProject
+Project("{1839C12B-1D67-73E6-1CE6-B3F099C68C28}") = "CrossWave", "Assembly-CSharp-Editor.csproj", "{68613305-4E23-9391-1C47-63967132A123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F9D81FA-AE7D-B369-ED1B-B4961F296FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9D81FA-AE7D-B369-ED1B-B4961F296FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9D81FA-AE7D-B369-ED1B-B4961F296FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9D81FA-AE7D-B369-ED1B-B4961F296FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DD6974-3E97-0B84-2FEE-A490426E3027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DD6974-3E97-0B84-2FEE-A490426E3027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DD6974-3E97-0B84-2FEE-A490426E3027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DD6974-3E97-0B84-2FEE-A490426E3027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68613305-4E23-9391-1C47-63967132A123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68613305-4E23-9391-1C47-63967132A123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68613305-4E23-9391-1C47-63967132A123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68613305-4E23-9391-1C47-63967132A123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
